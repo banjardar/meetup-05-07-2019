@@ -9,4 +9,6 @@ public class DiscountServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DiscountServiceApplication.class, args);
 	}
+	//hello
+	//night
 }
